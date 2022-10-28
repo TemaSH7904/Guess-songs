@@ -9,13 +9,14 @@ University project
 
 Элементы интерфейса
 
-:black_medium_square: Логика
+ :white_check_mark: Логика
 
-:black_medium_square: Меню
+ :white_check_mark: Меню
 
-:black_medium_square: Песни
+ :white_check_mark:Песни
 
-:black_medium_square: Тесты
+:white_medium_square: Тесты
 
-:musical_note:
-:black_medium_square:
+
+Project :musical_note: ---
+:white_medium_square:
